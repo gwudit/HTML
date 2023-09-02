@@ -1,0 +1,72 @@
+<html>
+  <title>hiii</title>
+    <h2>see and play</h2>
+    <body>
+    <link ref="stylesheet" href="style.css">
+        <div class="box">
+        <summary>FREE FIRE MAX</summary>
+        <ul><details open>
+        <li><p>i am a youtuber and i am playing free fire max and do you want to play with me subscribe my channel and like my videos and comment share channe name-GW UDITGAMER official and do you want to visit my channel  fill this and redirect to my channel </p></li> 
+        </div></details>
+        <summary>ABOUT FREE FIRE MAX GAME</summary>
+        <details open>
+        <li><p>Free Fire MAX is designed exclusively to deliver premium gameplay experience in a Battle Royale. Enjoy a variety of exciting game modes with all Free Fire players via exclusive Firelink technology. Experience combat like never before with Ultra HD resolutions and breathtaking effects.</p></li>
+        </details>
+        <details open>
+          <li><p>free fire is battel royal game developed and published by garena for android and IOS. it become the most downloaded mobile game globally in 2019. As of 2023 free fire had surpassed 187 million daily active user. Free fire max a graphically enhanced version of free fire was released globally on 28 september 2021.</p></li>
+          </details>
+        <h1>form</h1><fieldset><legend>personal info</legend>
+        <button type="demo" name="demo">click</button><br>
+        <label for="F NAME">F NAME</label>
+        <input name="F NAME"><br><br>
+        <label for="L NAME">L NAME</label>
+        <input name="L NAME"><br><br>
+        </fieldset>
+        <fieldset><legend>contact info</legend>
+        <label for="gmail">gmail</label>
+        <input gmail="gmail"><br><br>
+        <label for="password">password</label>
+        <input password="password"><br><br>
+        </fieldset>
+        <a href="https://www.youtube.com/channel/UC50lT9nClIR8WbtkSt6loDg">
+        <button type="submit" name="submit" onclick="alert('your form submitted')">submit</button>
+        </a>
+        <button type="reset" name="reset">reset</button>
+        <button type="cancel" name="cancel">cancel</button>
+        
+h2{
+  color: solid black;
+  text-align: center;
+  font-size: 4vh;
+  font-family: cursive;
+  font-weight: bold;
+}
+body{
+  background-image: linear-gradient(pink, yellow, orange);
+}
+h1{
+  color: solid black;
+  text-align: center;
+  font-size: 5vh;
+  font-family: cursive;
+  font-weight: bold;
+}
+label{
+  color: red;
+  font-size: 5vh;
+  font-family: cursive;
+}
+summary{
+  color: solid black;
+  text-align: center;
+  font-size: 4vh;
+  font-family: cursive;
+  font-weight: bold;
+}
+fieldset{
+  color: black;
+}
+div.box{
+  margin: 100px;
+}
+
